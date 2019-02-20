@@ -29,7 +29,7 @@ const Layout = ({ children }) => (
                 <Link to="/about">About</Link>
               </li>
               <li className={classes.mainNavItem}>
-                <Link to="/service">Service</Link>
+                <Link to="/services">Service</Link>
               </li>
               <li
                 className={classesName(
